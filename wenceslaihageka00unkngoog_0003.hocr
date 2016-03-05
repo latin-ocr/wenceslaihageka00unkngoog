@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./wenceslaihageka00unkngoog_0003.png"; bbox 0 0 3984 5000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3972 2086 3984 2740">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3972 2086 3984 2740">
+     <span class='ocr_line' id='line_1_1' title="bbox 3972 2434 3984 2740; baseline 306 -3366"><span class='ocrx_word' id='word_1_1' title='bbox 3977 2434 3984 2604; x_wconf 61' lang='lat'>11:11⁴·</span> <span class='ocrx_word' id='word_1_2' title='bbox 3972 2618 3984 2740; x_wconf 61' lang='grc'>4111,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 3973 2344 3984 2427"><span class='ocrx_word' id='word_1_3' title='bbox 3973 2344 3984 2427; x_wconf 66' lang='grc'><strong>11114</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 3975 2086 3984 2343; baseline 257 -257"><span class='ocrx_word' id='word_1_4' title='bbox 3983 2086 3984 2091; x_wconf 62' lang='grc'>,</span> <span class='ocrx_word' id='word_1_5' title='bbox 3983 2108 3984 2111; x_wconf 71' lang='grc'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 3982 2126 3984 2145; x_wconf 98' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_7' title='bbox 3975 2156 3984 2343; x_wconf 56' lang='grc'><strong>41111</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
